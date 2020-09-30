@@ -15,14 +15,14 @@
     pointer-events:none;
 }
 
-path
+.line
 {
     stroke:gray;
     fill:none;
     stroke-width:3;
 }
 
-.selected path
+.selectedpath
 {
     stroke:gold;
     stroke-width:6;
